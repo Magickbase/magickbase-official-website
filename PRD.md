@@ -46,9 +46,10 @@ The Magickbase homepage conveys the team's spirit and provides a showcase and na
 
 
 
-### Public Node
-1. [Home Page] Displays a chart of the status of the CKB public node's main and test networks for the last 90 days.
-2. [History Events] Displays the time and details of faults that have occurred historically.
+### Service Monitor
+1. [Home Page] Displays a chart of the status of CKB public nodes,CKB explorer, Godwoken explorer and faucet for the last 90 days.
+2. [Index] Displays a chart of the CKB Explorer and Godwoken Explorer real-time service indexes.
+3. [History Events] Displays the time and details of faults that have occurred historically.
 
 
 ### Bottom column
